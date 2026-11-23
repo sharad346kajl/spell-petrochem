@@ -1,8 +1,14 @@
-SPELL PETROCHEM WEBSITE PACKAGE
+SPELL PETROCHEM - GITHUB PAGES WEBSITE
 
-1. Upload the contents of this folder to Netlify, Cloudflare Pages, GitHub Pages, Hostinger or cPanel public_html.
-2. index.html is the homepage.
-3. Replace the illustrative images in assets/ with real business photos when available, keeping the same filenames.
-4. Add the official phone number, email and website/domain before launch.
-5. The quotation form currently validates input locally but does not transmit data. Connect it to Formspree, Netlify Forms, a CRM, or a serverless API.
-6. Use the browser Print command and choose Save as PDF to create a PDF replica; print styling is already included.
+UPLOAD:
+1. Create/open your GitHub repository.
+2. Upload index.html and the complete assets folder to the repository root.
+3. Commit to main.
+4. Settings > Pages > Build and deployment > Deploy from a branch.
+5. Select main and /(root), then Save.
+
+IMPORTANT BEFORE COMMERCIAL LAUNCH:
+- Add official email, phone/WhatsApp and domain.
+- Connect quotation form to Formspree, Netlify Forms, Power Automate, CRM or another endpoint.
+- Confirm product grades/standards/claims before publishing.
+- Original photos supplied by the business are stored as assets/original-*.jpg.
